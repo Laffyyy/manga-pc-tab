@@ -1,0 +1,15 @@
+.auth-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f6fb;
+  padding: 24px;
+}
+.auth-card {
+  width: min(420px, 100%);
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  padding: 32px;
+}
